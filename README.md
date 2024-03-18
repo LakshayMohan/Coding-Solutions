@@ -1,2 +1,4 @@
 # Coding-Solutions
-These files contain the daily problems that i am solving
+These files contain the daily problems that I am solving
+<br>
+Author - Lakshay Mohan
